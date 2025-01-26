@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 <br />
 
-##### <a class="wow fadeIn" data-wow-delay="0.5s">I am a Second Year undergraduate <sup>[citation needed]</sup>  at Imperial College London studying Physics, with a little Japanese and French *à la carte.* Currently, my interests lie in fundamental Physics, and I am working on learning C(++), advanced linear algebra, as well as Markov chains.</a>
+##### <a class="wow fadeIn" data-wow-delay="0.5s">I am a First Year undergraduate <sup>[citation needed]</sup>  at Bayes Business School studying Business Analytics, with a little Japanese and French *on the side.* Previously, I have dabbled in experimental Physics, and I am working on learning C(++), advanced linear algebra, as well as Markov chains.</a>
 
 <br />
 

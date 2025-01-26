@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /notes/
+title: notes
 nav: true
 nav_order: 1
 pagination:
