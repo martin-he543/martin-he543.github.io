@@ -7,7 +7,7 @@ first_name: Martin
 middle_name: A.
 last_name: He
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Contact me at mah121@ic.ac.uk.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -49,7 +49,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true

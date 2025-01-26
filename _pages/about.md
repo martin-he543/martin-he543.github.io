@@ -18,8 +18,34 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<br />
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## <a class="wow fadeIn" data-wow-delay="0.5s">welcome to my virtual abode.</a>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<br />
+
+##### <a class="wow fadeIn" data-wow-delay="0.5s">I am a Second Year undergraduate <sup>[citation needed]</sup>  at Imperial College London studying Physics, with a little Japanese and French *à la carte.* Currently, my interests lie in fundamental Physics, and I am working on learning C(++), advanced linear algebra, as well as Markov chains.</a>
+
+<br />
+
+<a class="wow fadeIn" data-wow-delay="1s">Other than academic stuff, I am a decent pianist, and working on self-composing various pieces (piano and otherwise), primarily in the neo-Classical style, though I tend to disregard genres for the most part. I also work on piano arrangements if I have any spare time, and music production in Logic Pro X (or Ableton Live). Please follow me on Strava if you like MTB or running and shit. Follow me on Instagram for personal schenanigans.</a>
+
+<br />
+
+<div class="card mt-3 wow fadeIn" data-wow-delay="1s" style="padding: 1rem;">
+  <div class="wow fadeIn" data-wow-delay="1.1s"><b style="font-weight:600!important;">🍪 COOKIE NOTICE 🍪</b></div>
+  <div class="wow fadeIn" data-wow-delay="1.2s"><b style="font-weight:600!important;">Like my self-esteem, this website is not secure (I can't be asked to pay for an SSL certificate, yet).</b> 
+  <br />
+  <i>Full disclosure:</i> à cause de la tyrannie imposed by the European Union, I must declare that this website has cookies, but fear not: unlike Facebook, these cookies are only used to enable the dark mode functionality.</div>
+</div>
+
+
+
+<br />
+
+<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/26800960' target="_clean" class="wow fadeIn" data-wow-delay="1.5s">
+  Follow me on
+  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a>
+
+<br />
