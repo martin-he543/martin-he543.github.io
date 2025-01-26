@@ -12,5 +12,5 @@ children:
     permalink: /projects/
   - title: divider
   - title: blog
-    permalink: /blog/
+    permalink: /notes/
 ---
