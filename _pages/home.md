@@ -2,16 +2,16 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Business Analytics undergraduate at Bayes Business School
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+     <p style="text-align:center;">Surbiton, Greater London</p>
+     <p style="text-align:center;"><b style="font-weight:600;">Instagram:</b> @martin.he543</p>
+     <p style="text-align:center;">贺志杰 / 賀 マーティン </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -38,8 +38,6 @@ social: true # includes social icons at the bottom of the page
   <br />
   <i>Full disclosure:</i> à cause de la tyrannie imposed by the European Union, I must declare that this website has cookies, but fear not: unlike Facebook, these cookies are only used to enable the dark mode functionality.</div>
 </div>
-
-
 
 <br />
 
