@@ -79,7 +79,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{
+            },{id: "news-for-unto-us-a-site-is-born-unto-us-a-site-is-given",
+          title: 'For unto us a site is born. Unto us, a site is given....',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
