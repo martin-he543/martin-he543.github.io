@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - martin-he543
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - martin-he543/classics-cheat-sheets
+  - martin-he543/novozymes-enzyme-stability-prediction-kaggle-2022
+  - martin-he543/second-year-data-analysis
+  - martin-he543/notes
+  
