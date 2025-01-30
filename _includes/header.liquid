@@ -4,7 +4,10 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          {% if site.title == 'blank' %}
+
+          <img src="../assets/img/favicon.png" alt="Logo" width="50" height="50">
+
+          <!--{% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">
                 {{- site.first_name -}}
@@ -18,8 +21,10 @@
             {% endif %}
           {% else %}
             {{- site.title -}}
-          {% endif %}
+          {% endif %}-->
         </a>
+
+
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
         <div class="navbar-brand social">{% include social.liquid %}</div>
