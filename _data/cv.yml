@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Martin A. He
     - name: Date of Birth
-      value: 14th March 1879
+      value: 5th April 2003
     - name: Languages
-      value: English, German
+      value: English, French, Chinese, Japanese
 
 - title: Education
   type: time_table
